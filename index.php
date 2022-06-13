@@ -116,7 +116,7 @@
             </h2>
             <div class="row wrapper pT70">
               <div class="item mB120">
-                <div class="img-wrapper">
+                <div class="img-wrapper" >
                   <img src="img/23502587_m.jpg" alt="placeholder">
                   <p>イベント会場設営時の<br>電気・通信⼯事</p>
                 </div>
