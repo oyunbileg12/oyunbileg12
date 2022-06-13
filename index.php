@@ -233,6 +233,7 @@
             <img src="img/contact1.png" class="img-contact" alt="contact1">
             <div class="inner_1000">
               <div class="top f24">
+                <!-- <img src="img/contact123.png"> -->
                 LAN,ネットワークサービスに関するご相談、ご質問承ります。<br>お気軽にお問い合わせください。
               </div>
               <div class="bot">

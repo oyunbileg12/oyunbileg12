@@ -5207,29 +5207,19 @@ header .wrapper li a {
   background: url(../img/sdgs.png) no-repeat;
   background-position: center;
 }
-/* .sdgs .left-wrapper {
-  width: 60%;
-}
-
-.sdgs .right-wrapper {
-  width: 40%;
-}
-
-.sdgs .left-wrapper img {
-  width: auto;
-  
-} */
 
 .contact .inner_500,
 .contact .inner_1000 {
   margin: 0;
+  
 }
 
 .contact .top {
   font-weight: 700;
   padding: 40px 50px;
   line-height: 1.6;
-  background: #b0daf7;
+  background-color: #b0daf7;
+  /* background: url(../img/contact123.png) no-repeat; */
 }
 
 .contact p {
@@ -5251,6 +5241,7 @@ header .wrapper li a {
 }
 
 .contact a img {
+  /* background: url(../img/contact123.png) no-repeat; */
   display: inline;
   margin-right: 10px;
   margin-top: 12px;
