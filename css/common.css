@@ -4905,6 +4905,37 @@ header .wrapper li a {
   transform: translateY(-50%) translateX(-50%) rotate(45deg);
 }
 
+.c_btn03 {
+  background: #fefefe;
+  color: #004290 !important;
+  position: relative;
+  font-size: 1.4rem;
+  display: inline-block;
+  padding: 10px 45px !important;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border: solid 1px !important;
+  text-align: center;
+  min-width: 220px;
+  border-radius: 3rem;
+}
+
+.c_btn03::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid #fefefe;
+  border-right: 2px solid #fefefe;
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  margin: auto;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-transform: translateY(-50%) translateX(-50%) rotate(45deg);
+  transform: translateY(-50%) translateX(-50%) rotate(45deg);
+}
+
 .c_Tit02_03 {
   position: relative;
   padding: 0.1rem 0;
@@ -4956,7 +4987,7 @@ header .wrapper li a {
 
 
 .about {
-  /* background: #ebf7fe; */
+  text-align: left;
 }
 
 /* .container {
@@ -4992,6 +5023,24 @@ header .wrapper li a {
   line-height: 2.25;
 }
 
+.about .c_btn03 {
+  /* background: #014190; */
+  padding: 5px 10px !important;
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+  margin-left: 32px;
+  min-width: 200px;
+  color: #004290 !important;
+  background-color: #fefefe;
+}
+.about .c_btn03::after {
+  border-top: 2px solid #fefefe;
+  border-right: 2px solid #fefefe;
+  width: 8px;
+  height: 8px;
+}
+
 .c_square_01 {
   width: 250px;
   height: 250px;
@@ -5002,6 +5051,7 @@ header .wrapper li a {
   align-items: center;
   justify-content: center;
   font-weight: 700;
+  color: #3c3c3c;
 }
 
 .c_square_01 p {
@@ -5019,6 +5069,13 @@ header .wrapper li a {
   background: url(../img/connect-dot-bot.png) no-repeat 102% 59%;
 }
 
+.service p{
+  position: relative;
+  align-self: center;
+  color: #3c3c3c;
+  text-align: left;
+}
+
 .service .wrapper {
   justify-content: space-between;
 }
@@ -5030,7 +5087,9 @@ header .wrapper li a {
   justify-content: left;
   border-radius: 3rem;
   overflow: hidden;
+  background-color: #fefefe;
   box-shadow: -2px -9px 54px 0px rgba(56, 56, 56, 0.5);
+  
   
   
 }

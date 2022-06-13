@@ -102,7 +102,7 @@
               </div>
             </div>
             <div class="btn_wrap mT35 mB80 float_r">
-              <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
+              <a class="c_btn03" href="javascript:void(0)"><span>詳しく見る</span></a>
             </div>
           </div>
         </div>
