@@ -5091,7 +5091,10 @@ header .wrapper li a {
 }
 
 .service .container {
-  background: url(../img/connect-dot-bot.png) no-repeat 102% 59%;
+  background: url(../img/connect-dot-bot.png) no-repeat;
+
+  background-position: right;
+  
 }
 
 .service p{

@@ -98,7 +98,7 @@
                 </div>
               </div>
               <div class="right-wrapper">
-                <p>私たちは、<br>誠実な対応で良質なサービスを提供いたします。長年、移動体の通信システムの構築に携わってきたシー・エヌ・エス。<br>ネットワーク構築や映像システムの敷設、関連する電気工事の豊富な実績をもとに皆様へ「つながる安心」をご提供します。</p>
+                <p>私たちは、<br>誠実な対応で良質なサービスを提供いたします。⻑年、移動体の通信システムの構築に携わってきたシー・エヌ・エス。<br>ネットワーク構築や映像システムの敷設、関連する電気⼯事の豊富な実績をもとに皆様へ「つながる安⼼」をご提供します。</p>
               </div>
             </div>
             <div class="btn_wrap mT35 mB80 float_r">
@@ -118,44 +118,6 @@
               <div class="item mB120">
                 <div class="img-wrapper" >
                   <img src="img/23502587_m.jpg" alt="placeholder">
-                  <p>イベント会場設営時の<br>電気・通信⼯事</p>
-                </div>
-                <div class="text-wrapper">
-                  <p>屋内外の様々なイベント会場での電気⼯事や、ショッピングモール内の⼩売店への電気の引き込み作業など。</p>
-                  <div class="btn_wrap">
-                    <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
-                  </div>
-                </div>
-              </div>
-              <div class="item mT60 mB60">
-                <div class="img-wrapper">
-                  <img src="img/CNS_047.jpg" alt="placeholder">
-                  <p>解析業務</p>
-                </div>
-                <div class="text-wrapper">
-                  <p>電測業務及びネットワークログから得たデータを様々なツールにより、各キャリアのトレンドにあわせた最適な電波環境を実現する為、ネットワーク・基地局における各種パラメータ変更の提案を実施致します。</p>
-                  <div class="btn_wrap">
-                    <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
-                  </div>
-                </div>
-              </div>
-              <div class="item mT120">
-                <div class="img-wrapper">
-                  <img src="img/shutterstock_1721927320.jpg" alt="placeholder">
-                  <p>ETC設備現調/保守</p>
-                </div>
-                <div class="text-wrapper">
-                  <p>今ではなくてはならないシステムの代名詞でもあるETC（Electronic Toll CollectionSystem）システムの現地調整試験や関連設備の改修作業他、システム保守等も実施しております。</p>
-                  <div class="btn_wrap">
-                    <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row wrapper mT-35">
-              <div class="item mB120">
-                <div class="img-wrapper">
-                  <img src="img/23119049_s.jpg" alt="placeholder">
                   <p>各キャリアの<br>基地局⼯事</p>
                 </div>
                 <div class="text-wrapper">
@@ -167,11 +129,49 @@
               </div>
               <div class="item mT60 mB60">
                 <div class="img-wrapper">
-                  <img src="img/4220094_m.jpg" alt="placeholder">
-                  <p>各キャリアの保守</p>
+                  <img src="img/CNS_047.jpg" alt="placeholder">
+                  <p>電気通信⼯事</p>
                 </div>
                 <div class="text-wrapper">
-                  <p>光ケーブルの接続確認(疎通確認)、インテグレーション作業、アンテナチルト調整、故障対応など。</p>
+                  <p>LAN⼯事、映像システム⼯事、電源⼯事、LED⼯事など。</p>
+                  <div class="btn_wrap">
+                    <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
+                  </div>
+                </div>
+              </div>
+              <div class="item mT120">
+                <div class="img-wrapper">
+                  <img src="img/shutterstock_1721927320.jpg" alt="placeholder">
+                  <p>RF環境最適化作業<br>(設計/測定/解析/キャリア⽀援)</p>
+                </div>
+                <div class="text-wrapper">
+                  <p>効果的な基地局配置の検討(カバレッジエリアの設計デザイン)や、トラフィック影響等を考慮した、電波品質向上及び通信速度改善⽬的の各種パラメータによる最適化など。</p>
+                  <div class="btn_wrap">
+                    <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row wrapper mT-35">
+              <div class="item mB120">
+                <div class="img-wrapper">
+                  <img src="img/23119049_s.jpg" alt="placeholder">
+                  <p>各種現調作業 <br> (携帯基地局/ETC/ホームドア)</p>
+                </div>
+                <div class="text-wrapper">
+                  <p>通信キャリア無線基地局の他、ETC（Electronic Toll Collection System ）及びホームドア等。</p>
+                  <div class="btn_wrap">
+                    <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
+                  </div>
+                </div>
+              </div>
+              <div class="item mT60 mB60">
+                <div class="img-wrapper">
+                  <img src="img/4220094_m.jpg" alt="placeholder">
+                  <p>⼤型映像装置 <br> 関連作業</p>
+                </div>
+                <div class="text-wrapper">
+                  <p>各種スタジアムや競技場施設・商業施設・道路表示板などの高輝度大型映像装置等。</p>
                   <div class="btn_wrap">
                     <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
                   </div>
@@ -180,10 +180,10 @@
               <div class="item mT120">
                 <div class="img-wrapper">
                   <img src="img/stock-photo-network-switch-and-ethernet-cable-in-rack-cabinet-network-connection-technology-and-has-a-status-407198587.jpg" alt="placeholder">
-                  <p>各種⼯事</p>
+                  <p>ムラヤマサービス</p>
                 </div>
                 <div class="text-wrapper">
-                  <p>LAN・ビジネスフォン設備⼯事、映像システム⼯事、電源⼯事、LED⼯事など。</p>
+                  <p>株式会社ムラヤマのグループ企業としてイベント会場や展示会等の電気工事。</p>
                   <div class="btn_wrap">
                     <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
                   </div>
@@ -212,7 +212,7 @@
               <img src="img/title-line.png" alt="title-line">
               <b>資格・実績一覧</b>
             </h2>
-            <p class="f18">当社では、⼯事に関する多数の資格所有者が在籍しており、豊富な実績があります。<br>ネットワーク構築や映像システムの敷設、関連する電気⼯事の会社をお探しでしたら、是⾮ご相談ください。</p>
+            <p class="f18">当社では、⼯事に関する多数の資格所有者が在籍しており、豊富な実績があります。ネットワーク構築や映像システムの敷設、関連する電気⼯事の会社をお探しでしたら、是⾮ご相談ください。</p>
             <div class="btn_wrap float_r mT25 mB100">
               <a class="c_btn01" href="javascript:void(0)"><span>詳しく見る</span></a>
             </div>
@@ -233,7 +233,7 @@
             <img src="img/contact1.png" class="img-contact" alt="contact1">
             <div class="inner_1000">
               <div class="top f24">
-                <!-- <img src="img/contact123.png"> -->
+                <!-- <img src="img/contact123.png"> -->                
                 LAN,ネットワークサービスに関するご相談、ご質問承ります。<br>お気軽にお問い合わせください。
               </div>
               <div class="bot">
