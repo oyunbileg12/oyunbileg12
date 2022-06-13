@@ -5041,8 +5041,7 @@ header .wrapper li a {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #585858;
-  opacity: 0.62;
+  background-color: rgba(88,88,88,0.62);
   
 }
 
