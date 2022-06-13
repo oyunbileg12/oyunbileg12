@@ -68,7 +68,7 @@
           <div class="inner_1000 pT120 pB100">
           <!-- <img src="img/connect-dot-top3.png" alt="sdgs" > -->
             <h2 class="c_Tit02_10">
-              <img src="img/title-line.png" alt="title-line">
+              <img src="img/title-line1.png" alt="title-line">
               <b>株式会社シー・エヌ・エスが選ばれる理由</b>
             </h2>
             <div class="row wrapper">
@@ -208,7 +208,7 @@
       <section class="qualification">
         <div class="cf container">
           <div class="inner_800 pT125 pB120">
-            <h2 class="c_Tit02_10">
+            <h2 class="c_Tit02_11">
               <img src="img/title-line.png" alt="title-line">
               <b>資格・実績一覧</b>
             </h2>
@@ -236,8 +236,8 @@
                 LAN,ネットワークサービスに関するご相談、ご質問承ります。<br>お気軽にお問い合わせください。
               </div>
               <div class="bot">
-                <div class="inner_500">
-                  <p>時間外の緊急事態にも柔軟に対応いたします。<br>緊急時のトラブルもお任せください。</p>
+                <div class="inner_500">  
+                  <div > <br><br><br><br></div>                
                   <div class="btn_wrap mT20 mB15">
                     <a class="c_btn01" href="javascript:void(0)">
                       <img src="img/email.png" alt="email">

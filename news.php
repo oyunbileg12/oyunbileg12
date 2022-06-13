@@ -73,28 +73,21 @@
                 LAN,ネットワークサービスに関するご相談、ご質問承ります。<br>お気軽にお問い合わせください。
               </div>
               <div class="bot">
-                <div class="inner_500">
-                  <p>時間外の緊急事態にも柔軟に対応いたします。<br>緊急時のトラブルもお任せください。</p>
+                <div class="inner_500">  
+                  <div > <br><br><br><br></div>                
                   <div class="btn_wrap mT20 mB15">
                     <a class="c_btn01" href="javascript:void(0)">
                       <img src="img/email.png" alt="email">
                       <span>お問い合わせ</span>
                     </a>
-                  </div>
-                  <div class="btn_wrap row mB35">
-                    <a class="c_btn02" href="javascript:void(0)">
-                      <span>06-6577-2500</span>
-                    </a>
-                    <a class="c_btn02" href="javascript:void(0)">
-                      <span>06-6577-2770</span>
-                    </a>
-                  </div>
+                  </div>                  
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
+    </div>
     </div>
     <!--//#home-->
     <div class="totop_wrap" id="totop">

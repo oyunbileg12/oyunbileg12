@@ -4924,8 +4924,8 @@ header .wrapper li a {
   content: "";
   width: 10px;
   height: 10px;
-  border-top: 2px solid #fefefe;
-  border-right: 2px solid #fefefe;
+  border-top: 2px solid #004290;
+  border-right: 2px solid #004290;
   position: absolute;
   top: 50%;
   right: 15px;
@@ -4954,8 +4954,41 @@ header .wrapper li a {
   font-weight: 900;
 }
 
+.c_Tit02_11 {
+  text-align: left;
+  font-size: 3rem;
+  color: #3c3c3c;
+  margin: 0 auto 40px;
+  position: relative;
+  font-weight: 900;
+}
+.c_Tit02_11 b {
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.c_Tit02_11 b::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 1px;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#000000),
+    to(#000000)
+  );
+  background: -webkit-linear-gradient(left, #0a0a0a 0%, #000000 100%);
+  background: linear-gradient(to right, #909090 0%, #909090 100%);
+}
+
+
 .c_Tit02_03 img,
-.c_Tit02_10 img {
+.c_Tit02_10 img
+.c_Tit01_11 img {
   position: absolute;
   left: -75px;
   top: -30px;
@@ -4980,8 +5013,8 @@ header .wrapper li a {
     from(#000000),
     to(#000000)
   );
-  background: -webkit-linear-gradient(left, #000000 0%, #000000 100%);
-  background: linear-gradient(to right, #000000 0%, #000000 100%);
+  background: -webkit-linear-gradient(left, #0a0a0a 0%, #000000 100%);
+  background: linear-gradient(to right, #fefefe 0%, #fefefe 100%);
 }
 
 
@@ -4989,11 +5022,6 @@ header .wrapper li a {
 .about {
   text-align: left;
 }
-
-/* .container {
-  background: url(../img/sdgs.png) no-repeat;
-  background-position: center;
-} */
 
 .about .container {
   background: url(../img/connect-dot-top4.png) no-repeat;
@@ -5015,9 +5043,6 @@ header .wrapper li a {
   
 }
 
-.about .c_btn01 {
-  padding: 10px 82px !important;
-}
 
 .about .right-wrapper p {
   line-height: 2.25;
@@ -5035,8 +5060,8 @@ header .wrapper li a {
   background-color: #fefefe;
 }
 .about .c_btn03::after {
-  border-top: 2px solid #fefefe;
-  border-right: 2px solid #fefefe;
+  border-top: 2px solid #004290;
+  border-right: 2px solid #004290;
   width: 8px;
   height: 8px;
 }
@@ -5154,7 +5179,9 @@ header .wrapper li a {
   justify-content: space-between;
 }
 
-
+.qualification p {
+  color: #3c3c3c;
+}
 
 .sdgs {
   position: relative;
@@ -5169,6 +5196,7 @@ header .wrapper li a {
   position: absolute;
   font-weight: 700;
   transform: translateY(-38%);
+  color: #3c3c3c;
 }
 
 .sdgs span {
