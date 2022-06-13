@@ -117,7 +117,7 @@
             <div class="row wrapper pT70">
               <div class="item mB120">
                 <div class="img-wrapper">
-                  <img src="http://placehold.jp/300x220.png" alt="placeholder">
+                  <img src="img/23502587_m.jpg" alt="placeholder">
                   <p>イベント会場設営時の<br>電気・通信⼯事</p>
                 </div>
                 <div class="text-wrapper">
@@ -129,7 +129,7 @@
               </div>
               <div class="item mT60 mB60">
                 <div class="img-wrapper">
-                  <img src="http://placehold.jp/300x220.png" alt="placeholder">
+                  <img src="img/CNS_047.jpg" alt="placeholder">
                   <p>解析業務</p>
                 </div>
                 <div class="text-wrapper">
@@ -141,7 +141,7 @@
               </div>
               <div class="item mT120">
                 <div class="img-wrapper">
-                  <img src="http://placehold.jp/300x220.png" alt="placeholder">
+                  <img src="img/shutterstock_1721927320.jpg" alt="placeholder">
                   <p>ETC設備現調/保守</p>
                 </div>
                 <div class="text-wrapper">
@@ -155,7 +155,7 @@
             <div class="row wrapper mT-35">
               <div class="item mB120">
                 <div class="img-wrapper">
-                  <img src="http://placehold.jp/300x220.png" alt="placeholder">
+                  <img src="img/23119049_s.jpg" alt="placeholder">
                   <p>各キャリアの<br>基地局⼯事</p>
                 </div>
                 <div class="text-wrapper">
@@ -167,7 +167,7 @@
               </div>
               <div class="item mT60 mB60">
                 <div class="img-wrapper">
-                  <img src="http://placehold.jp/300x220.png" alt="placeholder">
+                  <img src="img/4220094_m.jpg" alt="placeholder">
                   <p>各キャリアの保守</p>
                 </div>
                 <div class="text-wrapper">
@@ -179,7 +179,7 @@
               </div>
               <div class="item mT120">
                 <div class="img-wrapper">
-                  <img src="http://placehold.jp/300x220.png" alt="placeholder">
+                  <img src="img/stock-photo-network-switch-and-ethernet-cable-in-rack-cabinet-network-connection-technology-and-has-a-status-407198587.jpg" alt="placeholder">
                   <p>各種⼯事</p>
                 </div>
                 <div class="text-wrapper">
