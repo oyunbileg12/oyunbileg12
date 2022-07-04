@@ -6,8 +6,8 @@
   <div class="wrapper">
     <div class="info row">
       <div class="info-left">
-        <p>お気軽にお問い合わせください</p>
-        <a href="javascript:void(0)">06-6577-2500</a>
+        <!-- <p>お気軽にお問い合わせください</p>
+        <a href="javascript:void(0)">06-6577-2500</a> -->
       </div>
       <div class="info-right">
         <a class="c_btn01 " href="contact.php"><span>お問い合わせ</span></a>

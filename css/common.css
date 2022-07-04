@@ -4769,35 +4769,45 @@ header .wrapper li a {
 }
 
 .slider .card {
+  text-align: center;
   min-width: 400px;
-  padding: 52px 0;
+  padding: 0px 0;
   color: rgb(238, 123, 69);
-  font-size: 2.125rem;
+  font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.09;
+
 }
 
 .slider .card small {
   color: #333;
   font-size: 2rem;
+  
 }
 
 .slider span {
   display: block;
   background: #014190;
   color: #ffffff;
-  text-align: center;
-  font-size: 2.4rem;
   font-weight: 700;
   margin-top: 22px;
   margin-right: 17px;
   padding: 3px 0;
+  
 }
 
 .slider p {
-  background: #ffffff;
-  font-size: 1.6rem;
+  background: #ffffff;  
   line-height: 1.5;
+  width: 269px;
+  height: 72px;
+  /* -webkit-text-stroke: 1px #014190; */
+}
+.slider .card small1 {
+  color: #014190;
+  text-align: center;
+  font-size: 1.8rem;
+  
 }
 
 .slider .row2 {
@@ -4856,6 +4866,10 @@ header .wrapper li a {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.hero-title h3 {
+  color: #3c3c3c;
+}
+
 
 .hero-title img {
   position: absolute;

@@ -14,11 +14,9 @@
           <div class="inner_1200 pT75 pB75">
             <div class="inner_600 pT50 pB75">
               <div class="hero-intro">
-                <p>折衝から⼯事・保守まで</p>
+                折衝から⼯事・保守まで
                 <div class="card">
-                  安心<small>と</small>信頼<small>を守る</small><br><small>キャリアネットワークサービス</small>
-                </div>
-                ネットワークサービス
+                  <p>安心<small>と</small>信頼<small></n> を守る</small><br><small1>  ネットワークサービス </small1></p>             
               </div>
             </div>
           </div>
@@ -79,37 +77,38 @@
                     <div class="c_square_01 mB50">
                       <img src="img/box-1.jpg" alt="box-1" class="mB20">
                       <p>あらゆる施設に<br>対応可能</p>
-                    </div>
+                    </div>                    
+                  </div>
+
+                  <div class="mT60 mL125">                    
                     <div class="c_square_01">
-                      <img src="img/box-2.jpg" alt="box-2" class="mB20">
+                    <img src="img/box-2.jpg" alt="box-2" class="mB20">
                       <p>誠実なご対応で<br>良質なサービス</p>
                     </div>
                   </div>
-                  <div class="mT125 mL35">
-                    <div class="c_square_01 mB50">
-                      <img src="img/box-3.jpg" alt="box-3" class="mB20">
-                      <p>時間外の緊急事態にも<br>柔軟に対応します。</p>
-                    </div>
+                  <div class="mT110 mL125">
+                    
                     <div class="c_square_01">
                       <img src="img/box-4.jpg" alt="box-4" class="mB20">
                       <p>ワンストップでの<br>設備⼯事</p>
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="right-wrapper">
+              </div>              
+            </div>
+            <div class="right-wrapper  float_r">            
                 <p>私たちは、<br>誠実な対応で良質なサービスを提供いたします。⻑年、移動体の通信システムの構築に携わってきたシー・エヌ・エス。<br>ネットワーク構築や映像システムの敷設、関連する電気⼯事の豊富な実績をもとに皆様へ「つながる安⼼」をご提供します。</p>
-              </div>
-            </div>
-            <div class="btn_wrap mT35 mB80 float_r">
-              <a class="c_btn03" href="javascript:void(0)"><span>詳しく見る</span></a>
-            </div>
+                <div class="btn_wrap mT35 mB80 float_r">
+                  <a class="c_btn03" href="javascript:void(0)"><span>詳しく見る</span></a>
+                </div>
+              </div>       
+            
           </div>
         </div>
       </section>
       <section class="service">
         <div class="cf container">
-          <div class="inner_1000 pT140 pB70">
+          <div class="inner_1000 pT80 pB70">
             <h2 class="c_Tit02_10">
               <img src="img/title-line1.png" alt="title-line1">
               <b>サービス紹介</b>
