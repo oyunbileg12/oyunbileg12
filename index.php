@@ -11,12 +11,18 @@
       <?php include_once("./inc/header.php"); ?>
       <section class="slider">
         <div class="cf">
-          <div class="inner_1200 pT75 pB75">
+          <div class="inner_1400 pT145 pB75">
             <div class="inner_600 pT50 pB75">
               <div class="hero-intro">
                 折衝から⼯事・保守まで
                 <div class="card">
                   <p>安心<small>と</small>信頼<small></n> を守る</small><br><small1>  ネットワークサービス </small1></p>             
+              </div>
+              <div class="inner_1">
+              
+              <div class="card1">創業以来　無事故 の 実績</div>
+                <img src="./img/9501.png" alt="9501" width="283" height="40" style="margin: left 300px;">
+              </div>
               </div>
             </div>
           </div>
@@ -63,7 +69,7 @@
       </section>
       <section class="about">
         <div class="cf container">
-          <div class="inner_1000 pT120 pB100">
+          <div class="inner_1000 pT120 pB120">
           <!-- <img src="img/connect-dot-top3.png" alt="sdgs" > -->
             <h2 class="c_Tit02_10">
               <img src="img/title-line1.png" alt="title-line">
@@ -108,7 +114,7 @@
       </section>
       <section class="service">
         <div class="cf container">
-          <div class="inner_1000 pT80 pB70">
+          <div class="inner_1000 pT145 pB70">
             <h2 class="c_Tit02_10">
               <img src="img/title-line1.png" alt="title-line1">
               <b>サービス紹介</b>
@@ -194,12 +200,10 @@
       </section>
       <section class="two-buttons">
         <div class="cf container">
-          <div class="inner_1000 pT80 pB80 row">
+          <div class="inner_400 pT80 pB80">
+            
             <a href="#">
               <img src="img/btn1.jpg" alt="btn1">
-            </a>
-            <a href="#">
-              <img src="img/btn2.jpg" alt="btn2">
             </a>
           </div>
         </div>

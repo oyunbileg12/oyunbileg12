@@ -10,11 +10,8 @@
     <div id="home">
       <?php include_once("./inc/header.php"); ?>
       <section class="hero-title">
-        <div>
-          <img src="img/title-line.png" alt="title-line">
-          <h2>NEWS</h2>
-          <h3>お知らせ</h3>
-        </div>
+        <div class="hero-title1 mT175"></div>
+        <!-- <img src="img/connect-dot-bot.png" alt="title-linec" > -->
       </section>
       <section class="news">
         <div class="cf bk_white">

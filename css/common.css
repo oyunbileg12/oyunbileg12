@@ -775,6 +775,13 @@ figure {
   margin: 0 auto;
 }
 
+.inner_400 {
+  max-width: 400px !important;
+  position: relative;
+  width: 96%;
+  margin: 0 auto;
+}
+
 .inner_500 {
   max-width: 500px !important;
   position: relative;
@@ -1125,6 +1132,26 @@ figure {
 
 .mT150 {
   margin-top: 150px !important;
+}
+
+.mT155 {
+  margin-top: 155px !important;
+}
+
+.mT160 {
+  margin-top: 160px !important;
+}
+
+.mT165 {
+  margin-top: 165px !important;
+}
+
+.mT170 {
+  margin-top: 170px !important;
+}
+
+.mT175 {
+  margin-top: 175px !important;
 }
 
 .mB0 {
@@ -4799,8 +4826,9 @@ header .wrapper li a {
 .slider p {
   background: #ffffff;  
   line-height: 1.5;
-  width: 269px;
+  width: 360px;
   height: 72px;
+  position: relative;
   /* -webkit-text-stroke: 1px #014190; */
 }
 .slider .card small1 {
@@ -4808,6 +4836,23 @@ header .wrapper li a {
   text-align: center;
   font-size: 1.8rem;
   
+}
+
+.slider .card1 {
+  position: absolute;
+  top: 60%;
+  width: 126%;
+  text-align: center;
+  justify-content: center;
+  /* font-size: 18px; */
+  /* text-align: center; */
+  /* text-align: center;  
+  color: #fefefe;
+  background-repeat: no-repeat;
+  position: center;
+  justify-content: center; */
+  /* mix-blend-mode:multiply; */
+
 }
 
 .slider .row2 {
@@ -4857,6 +4902,9 @@ header .wrapper li a {
   /* align-items: center; */
   padding-left: 100px;
   position: relative;
+  
+
+ 
 }
 
 .hero-title h2 {
@@ -4871,10 +4919,15 @@ header .wrapper li a {
 }
 
 
-.hero-title img {
-  position: absolute;
+.hero-title1 {
+  /* position: absolute;
   left: 35px;
-  top: 30px;
+  top: 30px; */
+  
+  background: url(../img/connect-dot-bot.png) no-repeat;
+  opacity: 0.48;
+    background-position: right;
+    padding-bottom: 508px;
 }
 
 .news a {
@@ -4965,8 +5018,17 @@ header .wrapper li a {
   color: #fefefe;
   margin: 0 auto 40px;
   position: relative;
+  padding: 0.1rem 0;
   font-weight: 900;
 }
+/* .c_Tit02_10 {
+  text-align: left;
+  font-size: 3rem;
+  color: #fefefe;
+  margin: 0 auto 40px;
+  position: relative;
+  font-weight: 900;
+} */
 
 .c_Tit02_11 {
   text-align: left;
@@ -5001,10 +5063,16 @@ header .wrapper li a {
 
 
 .c_Tit02_03 img,
-.c_Tit02_10 img
+.c_Tit02_10 img,
 .c_Tit01_11 img {
   position: absolute;
   left: -75px;
+  top: -30px;
+}
+
+.c_Tit02_11 img {
+  position: absolute;
+  left: -95px;
   top: -30px;
 }
 
@@ -5106,7 +5174,7 @@ header .wrapper li a {
 
 .service .container {
   background: url(../img/connect-dot-bot.png) no-repeat;
-
+  /* opacity: 0.48; */
   background-position: right;
   
 }
@@ -5193,7 +5261,7 @@ header .wrapper li a {
 }
 
 .two-buttons .row {
-  justify-content: space-between;
+  justify-content:end;
 }
 
 .qualification p {
